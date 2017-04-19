@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\3D_graphic_library\3D_graphic_library\bin\Debug\3D_graphic_library.dll
+c:\users\user\documents\visual studio 2013\Projects\3D_graphic_library\3D_graphic_library\bin\Debug\3D_graphic_library.pdb
+c:\users\user\documents\visual studio 2013\Projects\3D_graphic_library\3D_graphic_library\obj\Debug\3D_graphic_library.dll
+c:\users\user\documents\visual studio 2013\Projects\3D_graphic_library\3D_graphic_library\obj\Debug\3D_graphic_library.pdb
+C:\Users\User\documents\visual studio 2013\Projects\3D_graphic_library\3D_graphic_library\obj\Debug\3D_graphic_library.csprojResolveAssemblyReference.cache
